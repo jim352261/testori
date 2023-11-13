@@ -1,6 +1,6 @@
 mango-website:
   image:
-    tag: website-20231106001
+    tag: website-20231113001
 
 mellon:
   image:
