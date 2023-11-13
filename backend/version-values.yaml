@@ -1,6 +1,6 @@
 nana:
   image:
-    tag: v1.0.5
+    tag: v1.0.7
 berry:
   image:
     tag: v1.0.7
