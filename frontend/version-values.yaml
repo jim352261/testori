@@ -1,0 +1,19 @@
+mango-website:
+  image:
+    tag: website-20231106001
+
+mellon:
+  image:
+    tag: mellon-20231106004
+
+mango-booking:
+  image:
+    tag: booking-20231106001
+  
+mango-booking-element:
+  image:
+    tag: booking_element-20231024013
+banana:
+  image:
+    tag: banana-20231026004
+

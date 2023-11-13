@@ -1,0 +1,18 @@
+nana:
+  image:
+    tag: v1.0.5
+berry:
+  image:
+    tag: v1.0.7
+cherry:
+  image:
+    tag: v1.0.6
+coconut:
+  image:
+    tag: v1.0.1
+flag:
+  image:
+    tag: v1.0.0
+cabage:
+  image:
+    tag: v1.0.0
